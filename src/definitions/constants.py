@@ -1,0 +1,5 @@
+"""
+Credentials
+"""
+SLACK_TOKEN = "SLACK_TOKEN"
+SIGNING_SECRET = "SIGNING_SECRET"
